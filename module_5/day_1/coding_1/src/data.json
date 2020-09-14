@@ -1,0 +1,142 @@
+[
+    {
+        "id": 1,
+        "profile": "Rennie Erdes",
+        "followers": 836,
+        "posts": 710.5,
+        "engagement": 0.63
+    },
+    {
+        "id": 2,
+        "profile": "Minni Balint",
+        "followers": 1367,
+        "posts": 1316.4,
+        "engagement": 0.47
+    },
+    {
+        "id": 3,
+        "profile": "Shalna Meller",
+        "followers": 1002,
+        "posts": 1088.5,
+        "engagement": 0.1
+    },
+    {
+        "id": 4,
+        "profile": "Rosina Mundie",
+        "followers": 719,
+        "posts": 914.6,
+        "engagement": 0.37
+    },
+    {
+        "id": 5,
+        "profile": "Hussein Flawith",
+        "followers": 826,
+        "posts": 1346.6,
+        "engagement": 0.1
+    },
+    {
+        "id": 6,
+        "profile": "Ramsay Bolesma",
+        "followers": 1124,
+        "posts": 1233.6,
+        "engagement": 0.19
+    },
+    {
+        "id": 7,
+        "profile": "Emmett Dobing",
+        "followers": 1289,
+        "posts": 715.5,
+        "engagement": 0.59
+    },
+    {
+        "id": 8,
+        "profile": "Mariya Besant",
+        "followers": 918,
+        "posts": 1093.5,
+        "engagement": 0.79
+    },
+    {
+        "id": 9,
+        "profile": "El Parsons",
+        "followers": 1294,
+        "posts": 1250.9,
+        "engagement": 0.1
+    },
+    {
+        "id": 10,
+        "profile": "Brigitta Fearfull",
+        "followers": 980,
+        "posts": 1267.4,
+        "engagement": 0.51
+    },
+    {
+        "id": 11,
+        "profile": "Haslett Baughen",
+        "followers": 1388,
+        "posts": 1266.8,
+        "engagement": 0.86
+    },
+    {
+        "id": 12,
+        "profile": "Shena O'Sculley",
+        "followers": 1291,
+        "posts": 830.2,
+        "engagement": 0.45
+    },
+    {
+        "id": 13,
+        "profile": "Crin Brodway",
+        "followers": 767,
+        "posts": 844.8,
+        "engagement": 0.76
+    },
+    {
+        "id": 14,
+        "profile": "Hamish Nanninini",
+        "followers": 1154,
+        "posts": 611.8,
+        "engagement": 0.37
+    },
+    {
+        "id": 15,
+        "profile": "Lara Gergher",
+        "followers": 1294,
+        "posts": 697.3,
+        "engagement": 0.22
+    },
+    {
+        "id": 16,
+        "profile": "Hali Folkerd",
+        "followers": 1139,
+        "posts": 653.5,
+        "engagement": 0.84
+    },
+    {
+        "id": 17,
+        "profile": "Robinett Lattimer",
+        "followers": 1023,
+        "posts": 619.6,
+        "engagement": 0.44
+    },
+    {
+        "id": 18,
+        "profile": "Dionis Engeham",
+        "followers": 689,
+        "posts": 1082.3,
+        "engagement": 0.55
+    },
+    {
+        "id": 19,
+        "profile": "Christie Crosskill",
+        "followers": 713,
+        "posts": 954.6,
+        "engagement": 0.7
+    },
+    {
+        "id": 20,
+        "profile": "Timmy Heisham",
+        "followers": 1382,
+        "posts": 797.9,
+        "engagement": 0.97
+    }
+]
